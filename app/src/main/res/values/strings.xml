@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Picture quiz</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
+    <string name="welk_dier_is_dit">Welk dier is dit?</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+</resources>
+
